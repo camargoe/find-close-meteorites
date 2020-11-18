@@ -1,4 +1,6 @@
 # find-close-meteorites
+# note to test git
+
 A demo project that uses Python and NASA data to find meteor landing sites.
 
 ## Running
